@@ -1,0 +1,124 @@
+2026-03-05 18:00:05,452 | INFO | App started
+2026-03-05 18:00:13,491 | INFO | App started
+2026-03-05 18:00:13,737 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:00:23,550 | INFO | App started
+2026-03-05 18:00:23,587 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:00:25,588 | INFO | App started
+2026-03-05 18:00:25,625 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:00:25,632 | INFO | User asked: how many symbols are there
+2026-03-05 18:00:25,637 | INFO | Loading LLM with key ending in ...lrnC
+2026-03-05 18:00:26,384 | INFO | Sending question to LLM: how many symbols are there
+2026-03-05 18:00:26,900 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:00:26,912 | INFO | LLM responded successfully (126 chars)
+2026-03-05 18:00:26,913 | INFO | Graph invocation successful
+2026-03-05 18:00:26,975 | INFO | App started
+2026-03-05 18:00:27,010 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:05,004 | INFO | App started
+2026-03-05 18:01:09,994 | INFO | App started
+2026-03-05 18:01:10,050 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:24,501 | INFO | App started
+2026-03-05 18:01:24,536 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:24,624 | INFO | App started
+2026-03-05 18:01:24,661 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:24,670 | INFO | User asked: how many symbols are there
+2026-03-05 18:01:24,672 | INFO | Sending question to LLM: how many symbols are there
+2026-03-05 18:01:24,907 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:01:24,907 | INFO | LLM responded successfully (133 chars)
+2026-03-05 18:01:24,907 | INFO | Graph invocation successful
+2026-03-05 18:01:24,975 | INFO | App started
+2026-03-05 18:01:25,009 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:44,825 | INFO | App started
+2026-03-05 18:01:44,862 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:01:44,867 | INFO | Validating Groq API key...
+2026-03-05 18:01:45,630 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:01:45,631 | INFO | Groq API key is valid!
+2026-03-05 18:01:57,606 | INFO | App started
+2026-03-05 18:02:01,983 | INFO | App started
+2026-03-05 18:02:02,178 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:02:12,326 | INFO | App started
+2026-03-05 18:02:12,362 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:02:12,449 | INFO | App started
+2026-03-05 18:02:12,483 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:02:12,489 | INFO | User asked: how many symbolsa re there
+2026-03-05 18:02:12,496 | INFO | Loading LLM with key ending in ...lrnC
+2026-03-05 18:02:13,239 | INFO | Sending question to LLM: how many symbolsa re there
+2026-03-05 18:02:13,503 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:02:13,512 | INFO | LLM responded successfully (130 chars)
+2026-03-05 18:02:13,513 | INFO | Graph invocation successful
+2026-03-05 18:02:13,585 | INFO | App started
+2026-03-05 18:02:13,620 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:02:57,572 | INFO | App started
+2026-03-05 18:02:57,607 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:02:57,616 | INFO | User asked: how many symbolsa re there
+2026-03-05 18:02:57,618 | INFO | Sending question to LLM: how many symbolsa re there
+2026-03-05 18:02:58,264 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:02:58,265 | INFO | LLM responded successfully (311 chars)
+2026-03-05 18:02:58,266 | INFO | Graph invocation successful
+2026-03-05 18:02:58,334 | INFO | App started
+2026-03-05 18:02:58,367 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:05:26,797 | INFO | App started
+2026-03-05 18:05:32,354 | INFO | App started
+2026-03-05 18:05:32,544 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:05:40,352 | INFO | App started
+2026-03-05 18:05:40,386 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:05:49,239 | INFO | App started
+2026-03-05 18:05:49,278 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:05:49,284 | INFO | User asked: how many symbols are there
+2026-03-05 18:05:49,289 | INFO | Loading LLM with key ending in ...lrnC
+2026-03-05 18:05:50,010 | INFO | Sending question to LLM: how many symbols are there
+2026-03-05 18:05:50,374 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:05:50,385 | INFO | LLM responded successfully (126 chars)
+2026-03-05 18:05:50,386 | INFO | Graph invocation successful
+2026-03-05 18:05:50,451 | INFO | App started
+2026-03-05 18:05:50,479 | INFO | File loaded: backfill_csv.xlsx | 35 rows x 20 cols
+2026-03-05 18:06:21,306 | INFO | App started
+2026-03-05 18:06:28,830 | INFO | App started
+2026-03-05 18:06:32,080 | INFO | File loaded: Bookings-20000-Rows.xlsx | 20407 rows x 19 cols
+2026-03-05 18:06:40,867 | INFO | App started
+2026-03-05 18:06:44,036 | INFO | File loaded: Bookings-20000-Rows.xlsx | 20407 rows x 19 cols
+2026-03-05 18:08:56,900 | INFO | App started
+2026-03-05 18:09:03,553 | INFO | App started
+2026-03-05 18:09:03,738 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:09:12,590 | INFO | App started
+2026-03-05 18:09:12,621 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:09:12,622 | INFO | User: how any symbols are there
+2026-03-05 18:09:12,635 | INFO | LLM loaded, key ends in ...lrnC
+2026-03-05 18:09:13,339 | INFO | Asking LLM: how any symbols are there
+2026-03-05 18:09:13,906 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:09:13,917 | INFO | LLM replied (105 chars)
+2026-03-05 18:09:13,918 | INFO | Graph OK
+2026-03-05 18:09:28,791 | INFO | App started
+2026-03-05 18:09:28,830 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:09:28,834 | INFO | User: how any with zn name
+2026-03-05 18:09:28,834 | INFO | Asking LLM: how any with zn name
+2026-03-05 18:09:29,099 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:09:29,099 | INFO | LLM replied (33 chars)
+2026-03-05 18:09:29,099 | INFO | Graph OK
+2026-03-05 18:42:21,949 | INFO | App started
+2026-03-05 18:42:21,981 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:42:21,985 | INFO | User: how many symbols are theer
+2026-03-05 18:42:21,989 | INFO | Asking LLM: how many symbols are theer
+2026-03-05 18:42:22,261 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:42:22,261 | INFO | LLM replied (97 chars)
+2026-03-05 18:42:22,261 | INFO | Graph OK
+2026-03-05 18:42:46,789 | INFO | App started
+2026-03-05 18:42:46,823 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:42:46,827 | INFO | User: give symbols wiht exxpiry
+2026-03-05 18:42:46,829 | INFO | Asking LLM: give symbols wiht exxpiry
+2026-03-05 18:42:47,307 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:42:47,308 | INFO | LLM replied (215 chars)
+2026-03-05 18:42:47,309 | INFO | Graph OK
+2026-03-05 18:44:58,384 | INFO | App started
+2026-03-05 18:44:58,420 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:44:58,424 | INFO | User: how many symbols with status sucess
+2026-03-05 18:44:58,426 | INFO | Asking LLM: how many symbols with status sucess
+2026-03-05 18:44:58,720 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:44:58,720 | INFO | LLM replied (42 chars)
+2026-03-05 18:44:58,720 | INFO | Graph OK
+2026-03-05 18:45:15,864 | INFO | App started
+2026-03-05 18:45:15,903 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:45:15,906 | INFO | User: how many symbols with status fail
+2026-03-05 18:45:15,906 | INFO | Asking LLM: how many symbols with status fail
+2026-03-05 18:45:16,223 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:45:16,224 | INFO | LLM replied (116 chars)
+2026-03-05 18:45:16,225 | INFO | Graph OK
