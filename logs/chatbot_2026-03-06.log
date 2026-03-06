@@ -1,0 +1,17 @@
+2026-03-06 16:58:59,942 | INFO | App started
+2026-03-06 16:59:08,384 | INFO | App started
+2026-03-06 16:59:09,230 | INFO | Loaded: Product-Sales-Region.xlsx | (1500, 19)
+2026-03-06 16:59:11,523 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-06 16:59:31,413 | INFO | App started
+2026-03-06 16:59:31,435 | INFO | User (Product-Sales-Region.xlsx): what the highest sales
+2026-03-06 16:59:35,073 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-06 16:59:35,076 | INFO | QA node success (1205 chars)
+2026-03-06 16:59:35,085 | INFO | Route: qa | Answer: 1205 chars
+2026-03-06 16:59:53,212 | INFO | App started
+2026-03-06 16:59:53,235 | INFO | User (Product-Sales-Region.xlsx): can you give it in chart form
+2026-03-06 16:59:55,216 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-06 16:59:55,934 | INFO | Viz node success (attempt 1)
+2026-03-06 16:59:55,936 | INFO | Route: viz | Answer: 31 chars
+2026-03-06 17:02:38,749 | INFO | App started
+2026-03-06 17:05:11,725 | INFO | App started
+2026-03-06 17:06:05,804 | INFO | App started

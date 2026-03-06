@@ -122,3 +122,30 @@
 2026-03-05 18:45:16,223 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2026-03-05 18:45:16,224 | INFO | LLM replied (116 chars)
 2026-03-05 18:45:16,225 | INFO | Graph OK
+2026-03-05 18:53:50,672 | INFO | App started
+2026-03-05 18:57:01,747 | INFO | App started
+2026-03-05 18:57:01,802 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:57:17,333 | INFO | App started
+2026-03-05 18:57:17,362 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:57:17,366 | INFO | User: how many rows are there
+2026-03-05 18:57:17,369 | INFO | Asking LLM: how many rows are there
+2026-03-05 18:57:17,911 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:57:17,912 | INFO | LLM replied (33 chars)
+2026-03-05 18:57:17,913 | INFO | Graph OK
+2026-03-05 18:57:25,389 | INFO | App started
+2026-03-05 18:57:25,430 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:57:26,242 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:57:37,714 | INFO | App started
+2026-03-05 18:57:37,747 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:57:37,751 | INFO | User: how many symbolsa re there
+2026-03-05 18:57:37,752 | INFO | Asking LLM: how many symbolsa re there
+2026-03-05 18:57:38,205 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:57:38,206 | INFO | LLM replied (165 chars)
+2026-03-05 18:57:38,206 | INFO | Graph OK
+2026-03-05 18:57:55,086 | INFO | App started
+2026-03-05 18:57:55,121 | INFO | Loaded: backfill_csv.xlsx | 35x20
+2026-03-05 18:57:55,126 | INFO | User: tell me all different clumsn which are therer and name them
+2026-03-05 18:57:55,129 | INFO | Asking LLM: tell me all different clumsn which are therer and name them
+2026-03-05 18:57:55,792 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-05 18:57:55,794 | INFO | LLM replied (489 chars)
+2026-03-05 18:57:55,794 | INFO | Graph OK
